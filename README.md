@@ -35,8 +35,3 @@ Replace `<path_to_image>` with the path to the image you want to classify.
 
 
 Alternatively, see the GitHub documentation on [creating a pull request](https://help.github.com/en/articles/creating-a-pull-request).
-
-## Contributors
-Thanks to the following people who have contributed to this project:
-- <Contributor 1>
-- <Contributor 2>
