@@ -1,9 +1,42 @@
-# Image-Classifier
-Welcome to the Image Classifier Project repository! This project aims to develop an image classification model using machine learning techniques to accurately classify images into predefined categories. This README file will provide you with all the necessary information to understand, set up, and contribute to the project.
+# Image Classifier Project
+
+## Introduction
+This project is an image classifier built with TensorFlow. It's designed to classify images into happy and sad categories. This classifier utilizes convolutional neural networks (CNN) to accurately identify the content of an image.
+
+## Features
+- High accuracy image classification
+- Supports two different classes/categories
+
+## Prerequisites
+Before you begin, ensure you have met the following requirements:
+- Python 
+- TensorFlow
+- NumPy
+- Pandas
+
+## Installation
+To install the image classifier, follow these steps:
+
+Linux/macOS/Windows:
+```bash
+git clone https://github.com/1sharkguy/Image-Classifier
+cd ImageClassifer
+pip install -r requirements.txt
+```
+
+## Usage
+To use the image classifier, follow these steps:
+
+```bash
+python classify.py --image <path_to_image>
+```
+
+Replace `<path_to_image>` with the path to the image you want to classify.
 
 
-Features
-1. Preprocessing of input images for model training.
-2. Training of deep learning models (e.g., Convolutional Neural Networks) for image classification.
-3. Model evaluation and performance metrics calculation.
-4. Easy-to-use interface for classifying new images using the trained model.
+Alternatively, see the GitHub documentation on [creating a pull request](https://help.github.com/en/articles/creating-a-pull-request).
+
+## Contributors
+Thanks to the following people who have contributed to this project:
+- <Contributor 1>
+- <Contributor 2>
