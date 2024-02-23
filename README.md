@@ -34,4 +34,3 @@ python classify.py --image <path_to_image>
 Replace `<path_to_image>` with the path to the image you want to classify.
 
 
-Alternatively, see the GitHub documentation on [creating a pull request](https://help.github.com/en/articles/creating-a-pull-request).
